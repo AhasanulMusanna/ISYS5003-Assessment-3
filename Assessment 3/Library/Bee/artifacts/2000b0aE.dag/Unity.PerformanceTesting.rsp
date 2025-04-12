@@ -109,6 +109,8 @@
 -define:UNITY_TESTS_FRAMEWORK
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"/Applications/Unity/Hub/Editor/6000.0.42f1/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"/Applications/Unity/Hub/Editor/6000.0.42f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"/Applications/Unity/Hub/Editor/6000.0.42f1/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll"
 -r:"/Applications/Unity/Hub/Editor/6000.0.42f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
 -r:"/Applications/Unity/Hub/Editor/6000.0.42f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"

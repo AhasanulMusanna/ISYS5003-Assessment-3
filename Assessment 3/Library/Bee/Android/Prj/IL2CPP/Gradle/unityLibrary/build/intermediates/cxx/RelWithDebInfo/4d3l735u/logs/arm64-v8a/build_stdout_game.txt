@@ -1,0 +1,10 @@
+ninja: Entering directory `/Users/ahasanulmusanna/Documents/GitHub/ISYS5003-Assessment-3/Assessment 3/.utmp/RelWithDebInfo/4d3l735u/arm64-v8a'
+[1/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o
+[2/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o
+[3/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o
+[4/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o
+[5/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o
+[6/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o
+[7/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o
+[8/9] Building CXX object GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o
+[9/9] Linking CXX shared library "/Users/ahasanulmusanna/Documents/GitHub/ISYS5003-Assessment-3/Assessment 3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4d3l735u/obj/arm64-v8a/libgame.so"
