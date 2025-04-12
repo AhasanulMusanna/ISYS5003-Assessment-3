@@ -1,0 +1,4 @@
+#Sun Apr 13 00:10:33 AEST 2025
+base.0=/Users/ahasanulmusanna/Documents/GitHub/ISYS5003-Assessment-3/Assessment 3/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

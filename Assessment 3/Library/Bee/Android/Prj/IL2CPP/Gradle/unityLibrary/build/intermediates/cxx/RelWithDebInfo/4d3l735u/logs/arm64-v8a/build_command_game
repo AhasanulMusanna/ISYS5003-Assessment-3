@@ -1,0 +1,4 @@
+/Applications/Unity/Hub/Editor/6000.0.42f1/PlaybackEngines/AndroidPlayer/SDK/cmake/3.22.1/bin/ninja \
+  -C \
+  "/Users/ahasanulmusanna/Documents/GitHub/ISYS5003-Assessment-3/Assessment 3/.utmp/RelWithDebInfo/4d3l735u/arm64-v8a" \
+  game

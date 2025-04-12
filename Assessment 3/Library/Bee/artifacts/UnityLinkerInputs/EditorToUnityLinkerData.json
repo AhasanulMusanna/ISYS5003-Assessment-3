@@ -225,6 +225,7 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AhasanulScene.unity",
                 "Assets/Scenes/MenuScene.unity"
             ]
         },
@@ -568,6 +569,7 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AhasanulScene.unity",
                 "Assets/Scenes/MenuScene.unity"
             ]
         },
@@ -994,6 +996,13 @@
         {
             "managedAssemblyName": "Unity.RenderPipelines.Universal.Runtime.dll",
             "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.Rendering.Universal.UniversalAdditionalCameraData",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.RenderPipelines.Universal.Runtime.dll",
+            "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.Rendering.Universal.UniversalAdditionalLightData",
             "moduleName": "",
             "usedInScenes": []
@@ -1095,6 +1104,7 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AhasanulScene.unity",
                 "Assets/Scenes/MenuScene.unity"
             ]
         },
@@ -1226,6 +1236,13 @@
             "managedAssemblyName": "UnityEngine.UI.dll",
             "nativeClass": "",
             "fullManagedTypeName": "UnityEngine.UI.VerticalLayoutGroup",
+            "moduleName": "",
+            "usedInScenes": []
+        },
+        {
+            "managedAssemblyName": "Unity.XR.ARCore.dll",
+            "nativeClass": "",
+            "fullManagedTypeName": "UnityEngine.XR.ARCore.ARCoreLoader",
             "moduleName": "",
             "usedInScenes": []
         },
@@ -4151,7 +4168,6 @@
     "forceIncludeModules": [],
     "forceExcludeModules": [
         "AMD",
-        "AR",
         "ClusterInput",
         "ClusterRenderer",
         "NVIDIA",
